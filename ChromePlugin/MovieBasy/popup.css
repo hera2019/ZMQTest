@@ -1,0 +1,12 @@
+/* 这里可以添加一些弹出页面的样式 */
+body {
+    width: 200px;
+    padding: 10px;
+    font-family: Arial, sans-serif;
+    font-size: 18px; /* 调整为更大的字体大小 */
+}
+
+/* 或者针对特定元素调整 */
+.large-text {
+  font-size: 36px; /* 更大的字体大小 */
+}
